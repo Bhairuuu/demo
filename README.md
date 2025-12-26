@@ -1,2 +1,3 @@
 # demo
-first  project
+first  repo
+name: bhairu
